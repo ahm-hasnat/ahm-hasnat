@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Banner](https://images.unsplash.com/photo-1581091870622-4f2a136c7ef2?auto=format&fit=crop&w=1350&q=80)
 
-# Hi there 👋, I'm [Your Name]  
+# Hi there 👋, I'm Hasnat  
 ### MERN Stack Developer | Open to Opportunities
 
 ---
@@ -42,38 +42,40 @@ Currently expanding my expertise in **TailwindCSS, Firebase, and Stripe** to bui
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-📧 Email: youremail@example.com  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahm-hasnat)  
+📧 Email: ahm.hasnat.0@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Hasnat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahm-hasnat&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-hasnat&layout=compact&theme=radical)  
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Sample Projects
 
-### 1. Tourism Website
-- **Description:** Modern tourism website showcasing destinations, booking, and travel guides.  
-- **Live Link:** [Tourism Website](https://your-live-link.com)  
+### 1. Micro Tasking & Earning Platform
+- **Description:** A modern interactive platform for workers, buyers, and admins to manage and complete micro-tasks efficiently with real-time collaboration.  
+- **Live Link:** [View Live](https://work-nest-dfcbc.web.app/)  
+- **GitHub Client:** [Repository](https://github.com/ahm-hasnat/assignment-12-work-nest-client)  
+- **Technologies:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase  
+
+### 2. Artifact Showcase
+- **Description:** Dynamic platform for exploring, adding, and managing historical artifacts, making discovery simple and engaging.  
+- **Live Link:** [View Live](https://assignmen-11-artify.netlify.app/)  
+- **GitHub Client:** [Repository](https://github.com/ahm-hasnat/artify-client)  
+- **Technologies:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase  
+
+### 3. Gardening Community Platform
+- **Description:** Connects gardening enthusiasts to share tips, sell plants, and collaborate on projects with a smooth, modern UI.  
+- **Live Link:** [View Live](https://assignment-10-plant-tribe.netlify.app/)  
+- **GitHub Client:** [Repository](https://github.com/ahm-hasnat/plant-tribe-client)  
 - **Technologies:** React, Node.js, Express, MongoDB, TailwindCSS  
-
-### 2. E-Commerce Store
-- **Description:** Full-featured e-commerce platform with Stripe payment integration.  
-- **Live Link:** [E-Commerce Store](https://your-live-link.com)  
-- **Technologies:** MERN Stack, Stripe, Firebase  
-
-### 3. Blogging Platform
-- **Description:** Scalable blogging platform with authentication, post creation, and comments.  
-- **Live Link:** [Blog Platform](https://your-live-link.com)  
-- **Technologies:** React, Node.js, Express, MongoDB, Firebase  
 
 ---
 
