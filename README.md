@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://images.unsplash.com/photo-1581091870622-4f2a136c7ef2?auto=format&fit=crop&w=1350&q=80)
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFncmN0aGlyNDlkeDJudXpwZDc2cTdpazR5Y2p6YzBnYXp0dm4zdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 # Hi there 👋, I'm Hasnat  
 ### MERN Stack Developer | Open to Opportunities
