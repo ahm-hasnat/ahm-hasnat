@@ -13,7 +13,7 @@
 ## 💡 About Me
 I am a passionate **Full-Stack Developer** specializing in the **MERN stack**.  
 I enjoy building scalable, efficient, and user-friendly web applications.  
-Currently expanding my expertise in **TailwindCSS, Firebase, and Stripe** to build modern web solutions.  
+Currently expanding my expertise in **Typescript ,Next.js and Stripe** to build modern web solutions.  
 
 ---
 
